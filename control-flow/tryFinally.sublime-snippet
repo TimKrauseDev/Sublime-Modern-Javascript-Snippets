@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+try {
+	${1}
+} finally {
+	${2}
+}
+]]></content>
+	<tabTrigger>tf</tabTrigger>
+	<description>try/finally statement</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>
+

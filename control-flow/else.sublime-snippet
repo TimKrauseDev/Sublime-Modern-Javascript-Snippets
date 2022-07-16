@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+else {
+	${1}
+}
+]]></content>
+	<tabTrigger>el</tabTrigger>
+	<description>else statement</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>
+

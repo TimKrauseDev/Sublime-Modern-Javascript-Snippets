@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+async function (${1:args}) {${0}}
+]]></content>
+	<tabTrigger>asf</tabTrigger>
+	<description>async anonymous function</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

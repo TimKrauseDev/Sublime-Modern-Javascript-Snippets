@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:fn}.apply(${2:this}, ${3:args})
+]]></content>
+	<tabTrigger>fa</tabTrigger>
+	<description>function apply</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

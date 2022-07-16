@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:assert}.throws(${2:actual}, ${3:expected})${0}
+]]></content>
+	<tabTrigger>ast</tabTrigger>
+	<description>assert.throws</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

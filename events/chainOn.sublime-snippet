@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+.on('${1:event}', ${2:handler})
+]]></content>
+	<tabTrigger>.on</tabTrigger>
+	<description>chain .on</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:assert}.deepStrictEqual(${2:actual}, ${3:expected})${0}
+]]></content>
+	<tabTrigger>asd</tabTrigger>
+	<description>assert.deepStrictEqual</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:promise}.then((${2:value}) => {${0}})
+]]></content>
+	<tabTrigger>then</tabTrigger>
+	<description>Promise.then</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

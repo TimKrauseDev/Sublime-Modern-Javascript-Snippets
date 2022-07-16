@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+let ${1:name} = ${2:value}
+]]></content>
+	<tabTrigger>l=</tabTrigger>
+	<description>let assignment</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

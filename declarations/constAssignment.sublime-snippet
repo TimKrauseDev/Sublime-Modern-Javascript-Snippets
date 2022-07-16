@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+const ${1:name} = ${2:value}
+]]></content>
+	<tabTrigger>c=</tabTrigger>
+	<description>const assignment</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

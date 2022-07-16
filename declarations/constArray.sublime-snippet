@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+const ${1:name} = [
+	${2}
+]
+]]></content>
+	<tabTrigger>ca</tabTrigger>
+	<description>const array</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

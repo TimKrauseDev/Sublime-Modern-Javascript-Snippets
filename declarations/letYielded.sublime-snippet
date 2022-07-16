@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+let ${1:name} = yield ${2:value}
+]]></content>
+	<tabTrigger>ly</tabTrigger>
+	<description>let yielded</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

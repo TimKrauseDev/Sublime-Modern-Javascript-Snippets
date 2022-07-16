@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+function ${1:ClassName} (${2:args}) {
+	if (!(this instanceof ${1:ClassName})) {
+		return new ${1:ClassName}(${2:args})
+	}
+	${3}
+}
+]]></content>
+	<tabTrigger>csi</tabTrigger>
+	<description>es5 singleton class</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

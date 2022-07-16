@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+(${1:args}) => ${2:statement}
+]]></content>
+	<tabTrigger>af</tabTrigger>
+	<description>arrow function</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

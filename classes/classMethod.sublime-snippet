@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:name} (${2:args}) {
+	${3}
+}
+]]></content>
+	<tabTrigger>csm</tabTrigger>
+	<description>class method</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+try {
+	${1}
+} catch (${2:err}) {
+	${3}
+}
+]]></content>
+	<tabTrigger>tc</tabTrigger>
+	<description>try/catch statement</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>
+

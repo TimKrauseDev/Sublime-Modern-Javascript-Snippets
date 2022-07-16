@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:fn}.bind(${2:this}, ${3:args})
+]]></content>
+	<tabTrigger>fb</tabTrigger>
+	<description>function bind</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

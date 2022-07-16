@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:assert}.notStrictEqual(${2:actual}, ${3:expected})${0}
+]]></content>
+	<tabTrigger>asn</tabTrigger>
+	<description>assert.notStrictEqual</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

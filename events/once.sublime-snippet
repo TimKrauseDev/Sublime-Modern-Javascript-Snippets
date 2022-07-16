@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:emitter}.once('${2:event}', ${3:args})
+]]></content>
+	<tabTrigger>once</tabTrigger>
+	<description>once event handler</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:fn}.call(${2:this}, ${3:args})
+]]></content>
+	<tabTrigger>fc</tabTrigger>
+	<description>function call</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

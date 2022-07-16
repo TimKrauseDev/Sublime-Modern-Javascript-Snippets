@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:assert}.ifError(${2:err})${0}
+]]></content>
+	<tabTrigger>asi</tabTrigger>
+	<description>assert.ifError</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

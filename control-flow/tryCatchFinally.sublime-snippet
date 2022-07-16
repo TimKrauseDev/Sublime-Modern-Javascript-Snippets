@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+try {
+	${1}
+} catch (${2:err}) {
+	${3}
+} finally {
+	${4}
+}
+]]></content>
+	<tabTrigger>tcf</tabTrigger>
+	<description>try/catch/finally</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>
+

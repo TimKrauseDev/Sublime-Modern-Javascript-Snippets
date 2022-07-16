@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+const ${1:name} = await ${2:value}
+]]></content>
+	<tabTrigger>ca</tabTrigger>
+	<description>const awaited</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

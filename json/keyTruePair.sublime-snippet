@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+"${1:key}": true
+]]></content>
+	<tabTrigger>;t</tabTrigger>
+	<description>JSON key/true pair</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

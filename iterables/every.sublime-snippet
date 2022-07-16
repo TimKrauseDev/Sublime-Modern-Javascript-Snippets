@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:iterable}.every(${2:iterator})
+]]></content>
+	<tabTrigger>every</tabTrigger>
+	<description>every</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

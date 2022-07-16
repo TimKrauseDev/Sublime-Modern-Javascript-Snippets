@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+export ${1:member}
+]]></content>
+	<tabTrigger>ex</tabTrigger>
+	<description>module export</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+import ${2:name} from '${1:pkg}'${3}
+]]></content>
+	<tabTrigger>im</tabTrigger>
+	<description>import module</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+.find(${1:iterator})
+]]></content>
+	<tabTrigger>.find</tabTrigger>
+	<description>chain find</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

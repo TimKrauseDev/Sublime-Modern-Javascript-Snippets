@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:iterable}.reduce((${2:prev}, ${3:curr}) => {
+	${0}
+}${4:, initial})
+]]></content>
+	<tabTrigger>reduce</tabTrigger>
+	<description>reduce</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

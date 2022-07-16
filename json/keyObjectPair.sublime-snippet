@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+"${1:key}": {"${2:values}"}
+]]></content>
+	<tabTrigger>;o</tabTrigger>
+	<description>JSON key/object pair</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

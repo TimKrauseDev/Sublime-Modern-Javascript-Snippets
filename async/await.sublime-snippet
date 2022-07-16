@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+await ${0}
+]]></content>
+	<tabTrigger>aw</tabTrigger>
+	<description>await</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

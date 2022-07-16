@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+return this
+]]></content>
+	<tabTrigger>rth</tabTrigger>
+	<description>return this</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+for (let ${1:key} of ${2:source}) {
+	${3}
+}
+]]></content>
+	<tabTrigger>fo</tabTrigger>
+	<description>for of loop</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

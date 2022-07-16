@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+setImmediate(() => {
+	${0}
+}, ${1:delay})
+]]></content>
+	<tabTrigger>sim</tabTrigger>
+	<description>setImmediate</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

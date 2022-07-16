@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:iterable}.filter(${2:iterator})
+]]></content>
+	<tabTrigger>filter</tabTrigger>
+	<description>filter</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

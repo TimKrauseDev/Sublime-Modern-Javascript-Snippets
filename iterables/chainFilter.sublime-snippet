@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+.filter(${1:iterator})
+]]></content>
+	<tabTrigger>.filter</tabTrigger>
+	<description>chain filter</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

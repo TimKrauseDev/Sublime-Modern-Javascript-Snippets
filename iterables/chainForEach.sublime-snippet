@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+.forEach(${1:iterator})
+]]></content>
+	<tabTrigger>.fe</tabTrigger>
+	<description>chain forEach</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

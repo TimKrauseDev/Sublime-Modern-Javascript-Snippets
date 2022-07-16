@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:iterable}.some(${2:iterator})
+]]></content>
+	<tabTrigger>some</tabTrigger>
+	<description>some</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>

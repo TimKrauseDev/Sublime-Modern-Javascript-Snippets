@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+.reduce((${1:prev}, ${2:curr}) => {
+	${0}
+}${3:, initial})
+]]></content>
+	<tabTrigger>.reduce</tabTrigger>
+	<description>chain reduce</description>
+	<scope>source.js, source.jsx, source.ts</scope>
+</snippet>
